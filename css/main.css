@@ -1,0 +1,34 @@
+body {
+    background-color: #000000;
+}
+
+.top_div {
+    text-align: center;
+}
+
+.magic_eth {
+    color: #ffffff;
+}
+
+.eth_data {
+    height: 500px;
+    width: 700px;
+    margin: 0 auto;
+    outline: 2px dotted white;
+}
+
+.eth_block_number {
+    color: #ffffff;
+}
+
+.eth_block_hash {
+    color: #ffffff;
+}
+
+.eth_block_time {
+    color: #ffffff;
+}
+
+.eth_block_difficulty {
+    color: #ffffff;
+}
